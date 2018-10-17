@@ -12,7 +12,7 @@ public class XdivisibleY {
 	            System.out.println(x+" es divisible de "+y);
 	        	}
 	        else{
-	       System.out.println(x+ " no es divisible " +y); 
+	       System.out.println(x + " no es divisible " +y); 
 	    }
 	}
 }
